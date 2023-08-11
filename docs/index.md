@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-Link to API reference: [Pet store](/api/redoc-static.html)
+Link to API reference: [Pet store](/blueberry-cheesecake/api/redoc-static.html)
 
 Rohita is the bestest!
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
